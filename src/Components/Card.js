@@ -4,7 +4,7 @@ import Form from './Form';
 function Card(){
     return(
         <div >
-        <div   className=' card   '>
+        <div  >
         <div >
         
         <Form/>
